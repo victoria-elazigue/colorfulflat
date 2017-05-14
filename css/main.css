@@ -1,0 +1,173 @@
+.container-fluid.main {
+    background-color: #A8D4DD;
+    color: #434343;
+    font-family: 'Bitter', serif;
+}
+
+.fa-heart{
+  position: relative;
+  top: 51px;
+  left: 64px;
+}
+.container-fluid.main h1{
+  font-size: 29px;
+  font-weight: bolder;
+  padding-left: 107px;
+}
+
+
+.container-fluid.main-section{
+  background-color: #A8D4DD;
+  height: 450px;
+}
+
+
+/* NAVIGATION */
+
+a{
+  color: #434343;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #A8D4DD;
+    background-color: #434343;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 11px 30px;
+    top: 39px;
+    left: 138px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+.nav-pills>li>a {
+    border-radius: 6px;
+}
+
+/* MAIN SECTION */
+
+.container-fluid.main-section h1{
+  color: #fff;
+  font-family: 'Bitter', serif;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bolder;
+  padding: 92px;
+}
+
+img {
+    vertical-align: middle;
+    height: 421px;
+    width: 427px;
+}
+
+.container-fluid {
+    padding-right: 27px;
+    padding-left: -18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h3, h3 {
+    font-size: 16px;
+    text-align: center;
+}
+
+p {
+    margin: 0px 27px 10px;
+    text-align: center;
+}
+
+/* RECENT WORKS */
+
+.container-fluid.recentworks{
+  background-color: #98D1A4;
+  height: 800px;
+}
+
+.h1, h1 {
+    font-size: 36px;
+    font-family: 'Bitter', serif;
+    color: #fff;
+    text-align: center;
+    margin-top: 30px;
+}
+
+  p {
+    margin: 0px 27px 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.nav-pills>li>a {
+    border-radius: 6px;
+    color: #fff;
+    margin-left: 5px;
+    position: justify;
+    left: 200px;
+}
+
+.row.recentworks img {
+    height: 177px;
+    width: 234px;
+}
+
+.row.recentworks {
+    margin-top: 88px;
+    margin-left: 80px;
+}
+
+.nav-pills.recentworks>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #98D1A4;
+    background-color: #fff;
+}
+
+.btn-group.recentworks, .btn-group-vertical {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    top: 32px;
+    left: 514px;
+    background-color: #fff;
+}
+
+/* TEMPLATE SECTION */
+
+.container-fluid.template{
+  background-color: #F0F0F0;
+}
+
+.container-fluid.template h3{
+  text-align: left;
+  margin-top: 87px;
+  margin-left: 27px;
+  font-size: 24px;
+}
+
+.container-fluid.template p{
+  color: black;
+  text-align: left;
+}
+
+
+.container-fluid.template img {
+    width: 285px;
+    height: 226px;
+    margin: 59px;
+}
+
+
+.container-fluid.template .row.template h3 {
+    text-align: right;
+    margin-top: 87px;
+    margin-right: 27px;
+    font-size: 24px;
+}
+
+.container-fluid .row.template p {
+    color: black;
+    text-align: right;
+}
